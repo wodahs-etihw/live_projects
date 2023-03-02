@@ -1,0 +1,59 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list {
+    list-style-type: none;
+    display: flex;
+}
+
+.list-item {
+    margin: 30px;
+
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-container {
+    display: flex;
+    position: relative;
+}
+
+.person_image {
+    position: absolute;
+}
+
+.square {
+    position: absolute;
+    left: 220px;
+    top: 330px;
+}
+
+.hero-container-right  {
+    position: absolute;
+    left: 50%;
+}
+
+.hero-heading  {
+    font-size: 60px;
+    margin-top: 142px;
+}
+
+.hero-description  {
+    text-align-last:center ;
+}
+.button_email_join {
+  text-align: center;
+  margin-top:190px;
+}
+
+.icons_heading {
+    text-align: center;
+    margin-top: 135px;
+}
